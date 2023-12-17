@@ -5,7 +5,7 @@ I am a Year 1 Network Security Student studying in UTM
 ------------------------------------------------------
 
 Wiii still exploring
-<p><a href="https://youtu.be/cZAL4Etp4-s?feature=shared">Video<br />
+
 * 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [keynettekumarevelan@gmail.com](mailto:keynettekumarevelan@gmail.com)
 * 🧠  I'm learning c++
