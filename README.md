@@ -28,5 +28,6 @@ Wiii still exploring
 
 <div width="100%" align="center"><a href="https://github.com/Manisha040111/ManishaTIS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manisha040111&repo=ManishaTIS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<p><a href="Group 10 Design Thinking Report.pdf">Report Writing On Design Thinking</p>
+<h2><a href="Group 10 Industrial Poster.pdf">Assignment 1<br />
 <p><a href="https://youtu.be/cZAL4Etp4-s?feature=shared">Video<br />
-<h2><a href="Group 10 Design Thinking Report.pdf">Design Thinking<br />
